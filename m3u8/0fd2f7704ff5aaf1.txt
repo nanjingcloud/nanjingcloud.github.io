@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:4
+#EXTINF:3.047889,
+https://img-newrank.newrank.cn/main/upload/photo/2023/10/09/1e1a67f5673f4e21b523b89f5e686f34.jpg
+#EXTINF:3.000000,
+https://img-newrank.newrank.cn/main/upload/photo/2023/10/09/4572a4cb3c5645248352251b4d18b84b.jpg
+#EXTINF:3.000000,
+https://img-newrank.newrank.cn/main/upload/photo/2023/10/09/c9ca9e848f264e3aa65a1ee494f68f9a.jpg
+#EXTINF:1.100000,
+https://img-newrank.newrank.cn/main/upload/photo/2023/10/09/8bb9038ff2ce4e73a273d30e19ab6333.jpg
+#EXT-X-ENDLIST
